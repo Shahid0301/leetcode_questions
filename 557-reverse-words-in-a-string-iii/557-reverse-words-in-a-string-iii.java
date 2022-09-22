@@ -7,7 +7,7 @@ class Solution {
             int k=arr[i].length()-1;
             char h_arr[]=arr[i].toCharArray();
             while(j<k){
-                char temp='s';
+                char temp;
                 temp=h_arr[j];
                 h_arr[j]=h_arr[k];
                 h_arr[k]=temp;
@@ -15,9 +15,8 @@ class Solution {
                 k--;
                 
             }
-            String ans1 = String. valueOf(h_arr);
             
-            Ans+=(ans1+" ");
+            Ans+=(String. valueOf(h_arr)+" ");
         }
         return Ans.trim();
         
