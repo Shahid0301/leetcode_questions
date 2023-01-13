@@ -13,38 +13,37 @@ class Solution {
         if(list1==null) return list2;
         if(list2==null) return list1;
         ListNode sort=new ListNode(0);
-        ListNode l1=list1,l2=list2;
-        if(l1.val<=l2.val){
-            sort=l1;
-            l1=l1.next;
+        if(list1.val<=list2.val){
+            sort=list1;
+            list1=list1.next;
             
         }
         else{
-            sort=l2;
-            l2=l2.next;
+            sort=list2;
+            list2=list2.next;
         }
         ListNode dummy=sort;
-        while(l1!=null && l2!=null){
-            if(l1.val<=l2.val){
-                ListNode temp=l1.next;
-                l1.next=null;
-                dummy.next=l1;
+        while(list1!=null && list2!=null){
+            if(list1.val<=list2.val){
+                ListNode temp=list1.next;
+                list1.next=null;
+                dummy.next=list1;
                 dummy=dummy.next;
-                l1=temp;
+                list1=temp;
             }
             else{
-                ListNode temp=l2.next;
-                l2.next=null;
-                dummy.next=l2;
+                ListNode temp=list2.next;
+                list2.next=null;
+                dummy.next=list2;
                 dummy=dummy.next;
-                l2=temp;
+                list2=temp;
             }
         }
-       if(l1==null){
-           dummy.next=l2;
+       if(list1==null){
+           dummy.next=list2;
        }
-        if(l2==null){
-            dummy.next=l1;
+        if(list2==null){
+            dummy.next=list1;
         }
         return sort;
     }
