@@ -7,12 +7,11 @@ class Solution {
                 count++;
             }
             else{
-          
-                count=0;
+             count=0;
             }
-                  if(count>max){
-                    max=count;
-                }
+            if(count>max){
+                max=count;
+            }
         }
         return max;
     }
