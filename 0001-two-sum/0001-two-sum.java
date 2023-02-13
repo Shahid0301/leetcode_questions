@@ -4,19 +4,15 @@ class Solution {
         int i=0;
         int arr[]=new int[2];
         while(i<nums.length){
-            if(map.containsValue(target-nums[i])){
+            if(map.containsKey(target-nums[i])){
                 arr[0]=i;
-                break;
+                arr[1]=map.get(target-nums[i]);
+               return arr;
             }
-            map.put(i,nums[i]);
+            map.put(nums[i],i);
             i++;
         }
-        for(int j=0;j<nums.length;j++){
-            if(nums[j]==target-nums[i]){
-                arr[1]=j;
-                break;
-            }
-        }
+
         return arr;
     }
 }
