@@ -7,7 +7,7 @@ class Solution {
                 min=nums[i];
                 }
             else{
-                profit=profit<nums[i]-min?nums[i]-min:profit;
+                profit=Math.max(profit,nums[i]-min);
             }
         }
         
