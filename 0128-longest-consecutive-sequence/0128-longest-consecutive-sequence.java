@@ -7,9 +7,9 @@ class Solution {
         }
         for(int num:nums){
             if(!set.contains(num-1)){
-                int currentStreak=0;
+                int currentStreak=1;
                 int currNum=num;
-                while(set.contains(currNum++)){
+                while(set.contains(++currNum)){
                     currentStreak++;
                 }
                 streak=Math.max(streak,currentStreak);
