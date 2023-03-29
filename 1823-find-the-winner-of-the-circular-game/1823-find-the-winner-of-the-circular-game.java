@@ -1,22 +1,19 @@
 class Solution {
     public int findTheWinner(int n, int k) {
-        Queue<Integer> q=new LinkedList<Integer>();
+        ArrayList<Integer> al=new ArrayList<>();
         for(int i=1;i<=n;i++){
-            q.add(i);
-        }
-        return element(k,q);
-    }
-    public static int element(int k,Queue<Integer> q){
-        if(q.size()==1){
-            return q.remove();
-        }
-        for(int i=1;i<=k;i++){
-            int ele=q.remove();
-            if(i!=k){
-                q.add(ele);
+            al.add(i);
             }
+        System.out.println(al);
+        return element(al,k,0);
+    }
+    public static int element(ArrayList<Integer> al,int k,int i){
+        if(al.size()==1){
+            return al.remove(0);
         }
-        return element(k,q);
-        
+        i=(k-1+i)%al.size();
+        al.remove(i);
+        System.out.println(al);
+        return element(al,k,i);
     }
 }
