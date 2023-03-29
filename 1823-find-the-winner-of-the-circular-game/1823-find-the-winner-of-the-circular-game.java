@@ -4,7 +4,7 @@ class Solution {
         for(int i=1;i<=n;i++){
             al.add(i);
             }
-        System.out.println(al);
+
         return element(al,k,0);
     }
     public static int element(ArrayList<Integer> al,int k,int i){
@@ -13,7 +13,6 @@ class Solution {
         }
         i=(k-1+i)%al.size();
         al.remove(i);
-        System.out.println(al);
         return element(al,k,i);
     }
 }
