@@ -3,12 +3,10 @@ class Solution {
         if(n==1){
            return true;
        }
-       if(n%3!=0){
+       if(n%3!=0 || n<1){
             return false;
        }
-        if(n==0){
-            return false;
-        }
+
 
         
         
