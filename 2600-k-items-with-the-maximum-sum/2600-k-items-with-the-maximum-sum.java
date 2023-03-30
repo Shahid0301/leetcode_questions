@@ -6,7 +6,6 @@ class Solution {
             return numOnes;
         else{
             k=k-(numOnes+numZeros);
-            System.out.println(k);
             return numOnes-k ;
         }
        
