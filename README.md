@@ -51,4 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Shahid0301/leetcode_questions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Shahid0301/leetcode_questions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Shahid0301/leetcode_questions/tree/master/1908-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Shahid0301/leetcode_questions/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Shahid0301/leetcode_questions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
