@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Shahid0301/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shahid0301/leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shahid0301/leetcode_questions/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shahid0301/leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shahid0301/leetcode_questions/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -31,10 +33,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Shahid0301/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Shahid0301/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shahid0301/leetcode_questions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shahid0301/leetcode_questions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Shahid0301/leetcode_questions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Shahid0301/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shahid0301/leetcode_questions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Database
 |  |
 | ------- |
