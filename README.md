@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Shahid0301/leetcode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shahid0301/leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shahid0301/leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shahid0301/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Shahid0301/leetcode_questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shahid0301/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Shahid0301/leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shahid0301/leetcode_questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Shahid0301/leetcode_questions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Shahid0301/leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shahid0301/leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shahid0301/leetcode_questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Database
@@ -89,4 +92,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shahid0301/leetcode_questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
