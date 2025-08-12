@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Shahid0301/leetcode_questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shahid0301/leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Shahid0301/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shahid0301/leetcode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0189-rotate-array) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Shahid0301/leetcode_questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shahid0301/leetcode_questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shahid0301/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Shahid0301/leetcode_questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shahid0301/leetcode_questions/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shahid0301/leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shahid0301/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0229-majority-element-ii) |
