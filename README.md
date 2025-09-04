@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Shahid0301/leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shahid0301/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/Shahid0301/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shahid0301/leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/Shahid0301/leetcode_questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shahid0301/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/Shahid0301/leetcode_questions/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shahid0301/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shahid0301/leetcode_questions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Shahid0301/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -108,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Shahid0301/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -121,4 +125,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Shahid0301/leetcode_questions/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shahid0301/leetcode_questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shahid0301/leetcode_questions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shahid0301/leetcode_questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
